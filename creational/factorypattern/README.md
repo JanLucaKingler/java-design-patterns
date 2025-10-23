@@ -20,8 +20,8 @@ but letting subclasses decide which class to instantiate.
 
 ## 🧠 Advantages
 
-✔️ **Loose Coupling** – The client code depends on abstractions, not concrete classes.  
-✔️ **Extensibility** – New product types can be added without modifying existing code.  
-✔️ **Single Responsibility** – Creation logic is centralized within factory classes.  
-✔️ **Improved Maintainability** – Easier to manage and scale object creation logic.  
-✔️ **Encapsulation** – The object creation process is hidden from the client.  
+**Loose Coupling** – The client code depends on abstractions, not concrete classes.  
+**Extensibility** – New product types can be added without modifying existing code.  
+**Single Responsibility** – Creation logic is centralized within factory classes.  
+**Improved Maintainability** – Easier to manage and scale object creation logic.  
+**Encapsulation** – The object creation process is hidden from the client.  
