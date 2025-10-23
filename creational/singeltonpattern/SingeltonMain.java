@@ -1,6 +1,6 @@
 package creational.singeltonpattern;
 
-public class Main {
+public class SingeltonMain {
     static void main() {
         AppService appService = new AppService();
         AppService appService2 = new AppService();
